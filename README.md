@@ -21,7 +21,7 @@ Task 4
 > Write a function that checks if a node is a leaf
 
 Task 5
-- [ ] `5-binary_tree_is_root.c`
+- [x] `5-binary_tree_is_root.c`
 > Write a function that checks if a given node is a root
 
 Task 6
