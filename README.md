@@ -17,7 +17,7 @@ Task 3
 > Write a function that deletes an entire binary tree
 
 Task 4
-- [ ] `4-binary_tree_is_leaf.c`
+- [x] `4-binary_tree_is_leaf.c`
 > Write a function that checks if a node is a leaf
 
 Task 5
