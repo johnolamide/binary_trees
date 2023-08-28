@@ -5,7 +5,7 @@ Task 0
 > Write a function that creates a binary tree node
 
 Task 1
-- [ ] `1-binary_tree_insert_left.c`
+- [x] `1-binary_tree_insert_left.c`
 > Write a function that inserts a node as the left-child of another node
 
 Task 2
