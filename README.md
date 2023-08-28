@@ -13,7 +13,7 @@ Task 2
 > Write a function that inserts a node as the right-child of another node
 
 Task 3
-- [ ] `3-binary_tree_delete.c`
+- [x] `3-binary_tree_delete.c`
 > Write a function that deletes an entire binary tree
 
 Task 4
