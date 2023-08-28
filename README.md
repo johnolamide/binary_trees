@@ -9,7 +9,7 @@ Task 1
 > Write a function that inserts a node as the left-child of another node
 
 Task 2
-- [ ] `2-binary_tree_insert_right.c`
+- [x] `2-binary_tree_insert_right.c`
 > Write a function that inserts a node as the right-child of another node
 
 Task 3
