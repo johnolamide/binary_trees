@@ -1,7 +1,7 @@
 # C-Binary Trees
 
 Task 0
-- [ ] `0-binary_tree_node.c`
+- [x] `0-binary_tree_node.c`
 > Write a function that creates a binary tree node
 
 Task 1
