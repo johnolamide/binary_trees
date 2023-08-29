@@ -29,7 +29,7 @@ Task 6
 > Write a function that goes through a binary tree using pre-order traversal
 
 Task 7
-- [ ] `7-binary_tree_inorder.c`
+- [x] `7-binary_tree_inorder.c`
 > Write a function that goes through a binary tree using in-order traversal
 
 Task 8
