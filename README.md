@@ -61,7 +61,7 @@ Task 14
 > Write a function that measures the balance factor of a binary tree
 
 Task 15
-- [ ] `15-binary_tree_is_full.c`
+- [x] `15-binary_tree_is_full.c`
 > Write a function that checks if a binary tree is full
 
 Task 16
