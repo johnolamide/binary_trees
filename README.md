@@ -37,7 +37,7 @@ Task 8
 > Write a function that goes through a binary tree using post-order traversal
 
 Task 9
-- [ ] `9-binary_tree_height.c`
+- [x] `9-binary_tree_height.c`
 > Write a function that measures the height of a binary tree
 
 Task 10
