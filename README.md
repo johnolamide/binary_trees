@@ -33,7 +33,7 @@ Task 7
 > Write a function that goes through a binary tree using in-order traversal
 
 Task 8
-- [ ] `8-binary_tree_postorder.c`
+- [x] `8-binary_tree_postorder.c`
 > Write a function that goes through a binary tree using post-order traversal
 
 Task 9
