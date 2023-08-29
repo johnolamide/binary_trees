@@ -49,7 +49,7 @@ Task 11
 > Write a function that measures the size of a binary tree
 
 Task 12
-- [ ] `12-binary_tree_leaves.c`
+- [x] `12-binary_tree_leaves.c`
 > Write a function that counts the leaves in a binary tree
 
 Task 13
