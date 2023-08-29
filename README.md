@@ -45,7 +45,7 @@ Task 10
 > Write a function that measures the depth of a node in a binary tree
 
 Task 11
-- [ ] `11-binary_tree_size.c`
+- [x] `11-binary_tree_size.c`
 > Write a function that measures the size of a binary tree
 
 Task 12
