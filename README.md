@@ -69,7 +69,7 @@ Task 16
 > Write a function that checks if a binary tree is perfect
 
 Task 17
-- [ ] `17-binary_tree_sibling.c`
+- [x] `17-binary_tree_sibling.c`
 > Write a function that finds the sibling of a node
 
 Task 18
