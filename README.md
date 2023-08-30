@@ -73,6 +73,6 @@ Task 17
 > Write a function that finds the sibling of a node
 
 Task 18
-- [ ] `18-binary_tree_uncle.c`
+- [x] `18-binary_tree_uncle.c`
 > Write a function that finds the uncle of a node
 
