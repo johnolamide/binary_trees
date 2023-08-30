@@ -65,7 +65,7 @@ Task 15
 > Write a function that checks if a binary tree is full
 
 Task 16
-- [ ] `16-binary_tree_is_perfect.c`
+- [x] `16-binary_tree_is_perfect.c`
 > Write a function that checks if a binary tree is perfect
 
 Task 17
